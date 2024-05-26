@@ -32,6 +32,7 @@ To install and run the Electric Vehicle Adoption Predictor, follow these steps:
 - 
 
 ```bash
+
 git clone https://github.com/bantoinese83/ev-adoption-predictor.git
 ```
 cd ev-adoption-predictor
