@@ -29,13 +29,17 @@ The Electric Vehicle Adoption Predictor is built using Flask for the backend, wi
 To install and run the Electric Vehicle Adoption Predictor, follow these steps:
 
 - Clone this repository:
+- 
 
 ```bash
-git clone https://github.com/your_username/ev-adoption-predictor.git
+git clone https://github.com/bantoinese83/ev-adoption-predictor.git
+```
 cd ev-adoption-predictor
 ```
-
-- Install the required dependencies:
+Update .env file with your OpenAI API key:
+API_KEY=YOUR_OPENAI_API_KEY
+```
+- Create a virtual environment:
 
 ```bash
 pip install -r requirements.txt
