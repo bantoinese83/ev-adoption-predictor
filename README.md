@@ -96,3 +96,5 @@ Example JSON data for Flask application:
 }
 ```
 The API will return a JSON response with the predicted electric vehicle adoption likelihood.
+
+![Screenshot](Screenshot.png)
